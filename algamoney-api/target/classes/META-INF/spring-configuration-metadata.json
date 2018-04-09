@@ -1,0 +1,38 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty",
+      "name": "algamoney",
+      "type": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty"
+    },
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty",
+      "name": "algamoney.seguranca",
+      "sourceMethod": "public com.example.algamoney.api.config.property.AlgaMoneyApiProperty.Seguranca getSeguranca() ",
+      "type": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty$Seguranca"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty",
+      "name": "algamoney.origem-permitida",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty$Seguranca",
+      "name": "algamoney.seguranca.enable-https",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty$Seguranca",
+      "name": "algamoney.seguranca.enable-https",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgaMoneyApiProperty$Seguranca",
+      "name": "algamoney.seguranca.enable-https",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}

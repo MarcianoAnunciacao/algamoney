@@ -1,0 +1,12 @@
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/AlgamoneyApiApplication.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/model/Pessoa.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/resource/PessoaResource.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/event/listener/RecursoCriadoListener.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/resource/CategoriaResource.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/repository/CategoriaRepository.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/repository/PessoaRepository.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/model/Categoria.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/event/RecursoCriadoEvent.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/model/Endereco.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/exceptionhandler/AlgamoneyExceptionHandler.java
+/home/marciano/Deselvolvimento/workspace/algamoney-api/src/main/java/com/example/algamoney/api/service/PessoaService.java

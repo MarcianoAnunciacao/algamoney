@@ -1,0 +1,4 @@
+nvm use --delete-prefix v9.8.0
+
+
+curl -sL https://deb.nodesource.com/setup_8.10.0 -o nodesource_setup.sh

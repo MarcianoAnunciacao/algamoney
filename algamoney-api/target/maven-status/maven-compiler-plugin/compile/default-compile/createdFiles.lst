@@ -1,0 +1,13 @@
+com/example/algamoney/api/event/listener/RecursoCriadoListener.class
+com/example/algamoney/api/service/PessoaService.class
+com/example/algamoney/api/AlgamoneyApiApplication.class
+com/example/algamoney/api/exceptionhandler/AlgamoneyExceptionHandler.class
+com/example/algamoney/api/exceptionhandler/AlgamoneyExceptionHandler$Erro.class
+com/example/algamoney/api/repository/PessoaRepository.class
+com/example/algamoney/api/repository/CategoriaRepository.class
+com/example/algamoney/api/resource/CategoriaResource.class
+com/example/algamoney/api/model/Categoria.class
+com/example/algamoney/api/event/RecursoCriadoEvent.class
+com/example/algamoney/api/model/Pessoa.class
+com/example/algamoney/api/model/Endereco.class
+com/example/algamoney/api/resource/PessoaResource.class
